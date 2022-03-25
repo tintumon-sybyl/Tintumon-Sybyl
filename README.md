@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tintumon-Sybyl
+- 👋 Hi, I’m @Tintumon, Working in Sybyl
 - 👀 I’m interested in Python programming.
 - 🌱 I’m currently learning anything new
 - 💞️ I’m looking to collaborate with you.
